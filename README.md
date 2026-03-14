@@ -8,10 +8,10 @@ I am a passionate Java backend developer with experience building backend applic
 
 ## 🚀 About Me
 
-- 🔭 I’m currently improving my backend development skills
-- 💡 Interested in building scalable backend systems
-- 🌱 Learning advanced backend technologies and cloud deployment
-- 🎯 Seeking an entry-level Java Backend Developer role
+- 🔭 Experienced in backend development with a strong foundation in building robust systems
+- 💡 Passionate about designing scalable and efficient backend architectures
+- 🌱 Continuously exploring advanced backend technologies, frameworks, and cloud deployment
+- 🎯 Seeking a Java Backend Developer role to contribute and grow professionally
 
 ---
 
